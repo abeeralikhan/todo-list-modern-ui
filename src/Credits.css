@@ -1,0 +1,24 @@
+.Credits {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  outline: 1px solid gray;
+  padding-block: 1.5rem;
+  width: 456px;
+  position: absolute;
+  bottom: 5rem;
+}
+
+.Credits p {
+  color: #fff;
+}
+
+.Credits img {
+  width: 35px;
+  margin-inline: 1rem;
+}
+
+.Credits-socials {
+  margin-top: 1rem;
+}
